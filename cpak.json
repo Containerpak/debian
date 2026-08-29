@@ -4,7 +4,7 @@
   "name": "Debian",
   "description": "Debian 13 for persistent development and system environments.",
   "version": "13",
-  "image": "ghcr.io/containerpak/debian-cpak@sha256:c7a3d8d64629ea26188992fbcfd6ca3d4a8913a0c5aabc5d67c7fe638d224ba7",
+  "image": "ghcr.io/containerpak/debian-cpak@sha256:620bd9102c3ad7f0a136dc59fc7d33ae7a299b719a0fec29fb9414f4b12b7355",
   "binaries": [
     "/bin/bash"
   ],
